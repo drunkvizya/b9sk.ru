@@ -8,7 +8,7 @@
 +.container { margin: 0 auto 2rem; padding: 19px 0; height: 100vh; box-sizing: border-box; }
 +video { display: block; margin: 0 auto; width: 100%; height: 100%; }
 +.mail { display: none; }
-+
++/*кто прочел тот лок*/
 +.mail {
 +position: fixed; 
 +display: block;
